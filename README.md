@@ -7,4 +7,5 @@ i'm a web development student at **mittuniversitetet** in sweden.
 * film/tv 🎥
 * writing & reading 📚  
   but I don't write as much as I'd like...
-* music 🎶
+* music 🎶  
+  i have like 18 different spotify playlists 😂
