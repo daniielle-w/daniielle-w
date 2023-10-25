@@ -7,6 +7,6 @@ i'm a web development student at **mittuniversitetet** in sweden.
 * film/tv 🎥  
   my current favorite series is _semantic error_ and _kiseki: dear to me_ 🖤
 * writing & reading 📚  
-  but I don't write as much as I'd like...
+  but i don't write as much as i'd like...
 * music 🎶  
   i have like 18 different spotify playlists 😂
